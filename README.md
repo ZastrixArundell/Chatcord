@@ -1,4 +1,4 @@
-# Chatty
+# Chatcord
 A spigot plugin for discord chatting.
 
 ## What is this, how does it work?
@@ -40,7 +40,7 @@ a complete stop and start of the server).
 
 After that head on to:
  
-    /plugins/Chatty/config.yml
+    /plugins/Chatcord/config.yml
  
  When you open this, you will have a couple of settings:
  - token
@@ -67,7 +67,7 @@ After that head on to:
  
  **message** - This is the mood message for the bot. Can be empty.
  
- **default** - This is set to true when Chatty is the default chat plugin.
+ **default** - This is set to true when Chatcord is the default chat plugin.
  
  When you complete the config, restart the plugin, get on to the channel
  on Discord where you want to connect your chat to a simply use:
