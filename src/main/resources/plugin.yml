@@ -1,0 +1,12 @@
+main: com.gmail.zastrixarundell.Chatcord.Chatcord
+version: ${version}
+author: Zastrix
+name: Chatcord
+softdepend: [PlaceholderAPI]
+
+commands:
+  discordchat:
+    permission: chatcord.use
+    description: Enable discord chat
+    aliases: dchat, chatcord
+    usage: /<command>

@@ -1,0 +1,7 @@
+token:
+formatMinecraft: '&7[&aMinecraft&7][%vault_rankprefix%&7] &5${username}&7>&r '
+formatDiscord: '&7[&bDiscord&7][&2${primaryrole}&7] &5${username}&7>&r '
+webhookURL:
+prefix: '~'
+message: '~set to set the chat channel!'
+default: true

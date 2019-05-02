@@ -1,0 +1,13 @@
+Note: This isn't a configuration, it's just a list of placeholders which are not in the placeholder API
+but can be used by the plugin. Any changes to this file will be reset on the next plugin load.
+
+${username}
+    1. In Minecraft - Player: replace it with the display name (nickname included)
+    2. In Minecraft - Discord: reaplace it with the full name (User#0000)
+    3. In Discord - Player: replace with username (username without nickname)
+
+${primaryrole}
+    1. In Minecraft - Discord: replace with the discord user primary role
+
+${nickname}
+    2. In Minecraft - Discord: replace it with the user nickname if there is one, if not, use the full name
